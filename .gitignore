@@ -1,0 +1,6 @@
+# Local state
+*.log
+.DS_Store
+podman/data/
+kubernetes/.tmp/
+*.tgz
